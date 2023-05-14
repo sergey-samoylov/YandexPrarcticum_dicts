@@ -15,4 +15,4 @@
 
 ![run dictionary script](https://github.com/sergey-samoylov/YandexPrarcticum_dicts/blob/main/img/yp_dict_2.png)
 
-Сами ключивые слова и их значения  собраны из открытой (бесплатной) части [Data Science Yandex.Practicum](https://practicum.yandex.ru/data-scientist/)
+Сами ключевые слова и их значения  собраны из открытой (бесплатной) части [Data Science Yandex.Practicum](https://practicum.yandex.ru/data-scientist/)
