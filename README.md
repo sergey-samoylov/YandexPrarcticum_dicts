@@ -1,4 +1,4 @@
-# YandexPrarcticum_dicts
+# DataScience YandexPrarcticum dictionary
 
 [![YandexPracticum Data Science dictionary](https://github.com/sergey-samoylov/YandexPrarcticum_dicts/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/sergey-samoylov/YandexPrarcticum_dicts/actions/workflows/main.yml)
 
