@@ -6,8 +6,11 @@
 
 ![run dictionary script](https://github.com/sergey-samoylov/YandexPrarcticum_dicts/blob/main/img/yp_dict_1.png)
 
-## Весь git add . , git commit, git push + workflow (включая проверки flake8) 
+## В одном скрипте: 
 
-Всё это - один скрипт выполняет. Он просит у меня только пароль.
+- git add . , git commit, git push 
+- workflow (включая проверки flake8) 
+
+Ввожу только пароль.
 
 ![run dictionary script](https://github.com/sergey-samoylov/YandexPrarcticum_dicts/blob/main/img/yp_dict_2.png)
